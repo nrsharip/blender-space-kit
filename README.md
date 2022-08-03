@@ -27,7 +27,7 @@ Watch the following video to get started with rigifying:
 
 ## Animating
 
-Watch the following video to get started with rigifying:
+Watch the following video to get started with animation:
 
 [![](https://img.youtube.com/vi/yjjLD3h3yRc/0.jpg)](https://www.youtube.com/watch?v=yjjLD3h3yRc)
 
