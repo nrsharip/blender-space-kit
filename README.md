@@ -38,19 +38,19 @@ Watch the following video to get started with rigifying:
 
 ### Walk Cycle
 
-[](https://images.app.goo.gl/ZHyK9KEabhrGwniA6)
+[![](https://blenderartists.org/uploads/default/original/4X/0/0/8/008bf56cbb82b89fff8a9db3b090c6b5c4b9f875.png)](https://images.app.goo.gl/ZHyK9KEabhrGwniA6)
 
 <img src="docs/walk.gif?raw=true" width="50%">
 
 ### Run Cycle
 
-[](https://images.app.goo.gl/BZYQgkDLaethqGWk7)
+[![](https://www.iamag.co/wp-content/uploads/2017/02/cover-tuto.jpg)](https://images.app.goo.gl/BZYQgkDLaethqGWk7)
 
 <img src="docs/run.gif?raw=true" width="50%">
 
 ### Jump Cycle
 
-[](https://images.app.goo.gl/2K5dnFmVFLPKNy4Z9)
+[![](https://courses.cs.washington.edu/courses/cse490j/19su/assignments/assignment_7/images/standing_jump_planning_sheet.jpg)](https://images.app.goo.gl/2K5dnFmVFLPKNy4Z9)
 
 <table>
   <tr>
