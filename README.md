@@ -6,14 +6,14 @@ There're total of three characters present in the package:
 
 <table>
   <tr>
-    <td width="200px">Alien</td>
-    <td width="200px">Astronaut A</td>
-    <td width="200px">Astronaut B</td>
+    <td width="120px" align="center">Alien</td>
+    <td width="120px" align="center">Astronaut A</td>
+    <td width="120px" align="center">Astronaut B</td>
   </tr>
   <tr>
-    <td width="200px"><img src="docs/alien_SE.png?raw=true" width="100%"></td>
-    <td width="200px"><img src="docs/astronautA_SE.png?raw=true" width="100%"></td>
-    <td width="200px"><img src="docs/astronautB_SE.png?raw=true" width="100%"></td>
+    <td width="120px"><img src="docs/alien_SE.png?raw=true" width="100%"></td>
+    <td width="120px"><img src="docs/astronautA_SE.png?raw=true" width="100%"></td>
+    <td width="120px"><img src="docs/astronautB_SE.png?raw=true" width="100%"></td>
   </tr>
 </table>
 
